@@ -1,3 +1,6 @@
+function test_print(){
+         console.log(“test code”)
+}
 $(function() {
    //Get 
    $('#get-button').on('click', function() {
